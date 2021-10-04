@@ -1,6 +1,6 @@
 # MeLearn Deep Learning Series 1
 
-This repository accompanies the online courses "MeLearn Deep Learning Series 1", [available here](bit.ly/deep-learning-melearn)
+This repository accompanies the online courses "MeLearn Deep Learning Series 1", [available here](https://bit.ly/deep-learning-melearn)
 
 - [Chapter 1 - The simplest neural network](https://github.com/TergelMunkhbat/MeLearn-Deep-Learning-1/tree/main/1.%20The%20simplest%20neural%20network)
 - [Chapter 2 - Multiple inputs neural network](https://github.com/TergelMunkhbat/MeLearn-Deep-Learning-1/tree/main/2.%20Multiple%20inputs%20neural%20network)
